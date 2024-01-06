@@ -1,0 +1,10 @@
+.squre {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: solie 1px black;
+    display: none;
+}
+.box:hover {
+    opacity: 0;
+}

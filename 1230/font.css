@@ -1,0 +1,9 @@
+* {
+    font-family: 'Nanum Brush Script', cursive;
+}
+.content1 {
+    color: red;
+    font-size:  20px;
+    font-weight: 700;
+    line-height: 40px;
+}

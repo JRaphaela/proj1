@@ -1,0 +1,13 @@
+.main {
+    margin: 50px;
+    
+
+}
+
+div {
+    /*display : layout 꾸밀때 사용. 화면에 어떻게 요소들을 보여줄지 나타내는 것 */
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+}
+.box1 {
+    color: darkgreen;
+    width: 700px;
+    height: 100px;
+    border: 10px solid gray;
+    font-size: 20px;
+    font-weight: 700;
+}
+.box2 {
+    color: darkblue;
+    width: 700px;
+    height: 172px;
+    border: 8px double gray;
+    font-size: 15px;
+    font-weight: 900;
+
+
+}

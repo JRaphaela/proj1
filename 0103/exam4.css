@@ -1,0 +1,43 @@
+.main {
+    positon: relative;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+}
+.circle1 {
+    background-color: gray;
+
+}
+.circle2 {
+    background-color: antiquewhite;
+    top:50px;
+    left:73px;
+}
+.circle3 {
+    background-color: beige;
+    top:77px;
+    left:134x;
+}
+.circle4 {
+    background-color: blanchedalmond;
+    top:103px;
+    left:192px;
+}
+.circle5 {
+    background-color: azure;
+    top:110px;
+    left:149px;
+}
+.eye-white {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%
+    background-color: white;
+}
+.grass {
+    position: relative
+    top: 11px;0px;
+}

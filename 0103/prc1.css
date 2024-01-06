@@ -1,0 +1,30 @@
+.parent {
+    positon: relative;
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+.item1 {
+    positon: relative;
+    background-color: yellow;
+    width: 100px;
+    height: 80px;
+    top: 30px;
+    left: 50px;
+}
+.item2 {
+    positon: absolute;
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    top: 30px;
+    left: 50px;
+}
+.item3 {
+    position: fixed;
+    background-color: green;   
+    width: 100px;
+    height: 150px;
+    right: 100px;
+    top: 100px;
+}

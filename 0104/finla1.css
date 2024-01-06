@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    justify-content: spalce-between;
+    background-color: gray;
+    height: 40px;
+    align-items: center;
+    padding: 0px 10px;
+    font-weight: bold;
+}
+.main2 {
+display: flex;
+justify-content: space-between;
+}
+

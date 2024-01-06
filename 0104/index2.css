@@ -1,0 +1,36 @@
+.box {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+/*여기서부터 막힘*/
+.box1:hover {
+    width: 400px;
+    background-color: blue;
+    opacity: 0.5;
+
+}
+.box2:hover {
+    transform: rotate(180deg);
+    background-color: green;
+    transition: all 1s ease-in-out;
+}
+.box3:hover {
+    transform: scale(3) translate(100px, 100px);
+    transition: all 3s ease-in-out;
+}
+.box4:hover {
+    transform: tranlate;
+}
+.box1 {
+    background-color: red;
+}
+.box2 {
+    background-color: rgb(168, 127, 127);
+}
+.box3 {
+    background-color: rgb(57, 18, 18);
+}
+.box4 {
+    background-color: rgb(207, 179, 179);
+}

@@ -1,0 +1,9 @@
+.bgColor {
+    background-color: aquamarine;
+    min-width: cal(1920px - 50vh);
+    min-height: 500px;
+}
+
+p {
+   line-height: 40px;
+}

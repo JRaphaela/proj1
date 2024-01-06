@@ -1,0 +1,21 @@
+.main {
+    background-color: orange;
+    width: auto;
+    height: 200px;
+}
+
+.main > div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+.html {
+    background-color: aqua;
+}
+.css {
+    background-color: green;
+}
+.js {
+    background-color: red;
+}

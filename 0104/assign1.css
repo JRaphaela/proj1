@@ -1,0 +1,37 @@
+* {
+    font-weight: bolder;
+    margin: 0px 10px;
+}
+
+.text1 {
+    color: black;
+    text-align : center;
+}
+.box {
+    background-color: rgb(181, 176, 176);
+}
+.box1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.box2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.box3 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+}
+.box4 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+}
+.text2 {
+    background-color: pink;
+    color: white;
+    text-align : center;
+}

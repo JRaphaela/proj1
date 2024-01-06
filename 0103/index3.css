@@ -1,0 +1,18 @@
+div {
+    background-color: orange;
+    background-image: url("https://item.kakaocdn.net/do/d84248170c2c52303db27306a00fb861f604e7b0e6900f9ac53a43965300eb9a");
+    /*background-repeat : 배경이미지 반복*/
+    background-repeat: no-repeat;
+    /*background-position : 배경이미지 위치 설정*/
+    background-position: cent;
+    /*background-size : */
+    background-size: 200px;
+    /*backgroudn-attachment : 배경이미지 스크롤설정*/
+    background-attachment: fixed;
+    overflow: scroll;
+    width: 500px;
+    height: 500px;
+}
+p {
+    height: 1000px;
+}

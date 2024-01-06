@@ -1,0 +1,5 @@
+.box {
+    border-color: green;
+    border-right-width: 50px;
+    border-style: none solid dashed double; 
+}

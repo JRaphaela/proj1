@@ -1,0 +1,9 @@
+.text {
+    width: 300px;
+    <* text-align : 문자 정렬(왼,오,가,양)*>
+    text-align: right;
+    <*text-decoration : 문자 선(위,아래,가운데)*>
+    text-decoration: underline;
+
+
+}
